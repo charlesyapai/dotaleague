@@ -1,0 +1,6 @@
+<h2>Player List</h2>
+<ul>
+    {% for player in players %}
+    <li>{{ player.name }} (MMR: {{ player.mmr }})</li>
+    {% endfor %}
+</ul>

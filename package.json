@@ -1,0 +1,13 @@
+{
+    "name": "dota2-league-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for the Dota 2 League Website",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {}
+  }
+  
